@@ -7,24 +7,6 @@
 
 > Detección de **emociones** en jugadores de fútbol usando **CNNs**. El proyecto incluye notebooks reproducibles, métricas claras, visualizaciones y un informe técnico.
 
----
-
-## 🗺️ Tabla de Contenidos
-- [Descripción](#-descripción)
-- [Estructura del repositorio](#-estructura-del-repositorio)
-- [Requisitos](#-requisitos)
-- [Instalación rápida](#-instalación-rápida)
-- [Dataset](#-dataset)
-- [Arquitectura y flujo](#-arquitectura-y-flujo)
-- [Entrenamiento y evaluación](#-entrenamiento-y-evaluación)
-- [Resultados](#-resultados)
-- [Ejemplos](#-ejemplos)
-- [Roadmap](#-roadmap)
-- [Contribuir](#-contribuir)
-- [Citar](#-citar)
-- [Licencia](#-licencia)
-
----
 
 ## 🧠 Descripción
 Este proyecto entrena y evalúa una **Red Neuronal Convolucional (CNN)** para clasificar emociones (ej. *surprise*, *happy*, *neutral*, etc.) en imágenes de escenas futbolísticas. Se incluyen:
@@ -38,4 +20,3 @@ El informe técnico se encuentra en **[`report/Reporte CNN.pdf`](report/Reporte%
 
 ---
 
-## 🗂️ Estructura del repositorio
