@@ -3,7 +3,7 @@
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-4C9AFF)](#)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)](#)
-[![Stars](https://img.shields.io/github/stars/estemen27/ProyectoDeepLearning_FutbolEmociones)](../../stargazers)
+
 
 > Detección de **emociones** en jugadores de fútbol usando **CNNs**. El proyecto incluye notebooks reproducibles, métricas claras, visualizaciones y un informe técnico.
 
